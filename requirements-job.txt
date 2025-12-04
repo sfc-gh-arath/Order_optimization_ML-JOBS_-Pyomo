@@ -1,0 +1,8 @@
+# Requirements for Snowflake ML Job environment
+# These will be installed in the containerized job environment
+
+pyomo>=6.7.0
+highspy>=1.5.0
+pandas>=2.0.0
+numpy>=1.24.0
+
